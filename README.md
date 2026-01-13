@@ -18,14 +18,4 @@
 - **Streamlit**  
 
 
-## ⚡ Installation
 
-```bash
-# Clone the repository
-git clone <repository_url>
-
-# Navigate to the project directory
-cd <project_directory>
-
-# Install required packages
-pip install -r requirements.txt
