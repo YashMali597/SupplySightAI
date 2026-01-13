@@ -7,9 +7,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from orchestrator.agent_manager import AgentManager
 
-st.set_page_config(page_title="AutoPilot AI", layout="wide")
+st.set_page_config(page_title="SupplySight AI", layout="wide")
 
-st.title("🚀 AutoPilot AI")
+st.title("🚀 SupplySight AI")
 st.caption("Agentic Supply Chain Decision Intelligence")
 
 df = pd.read_csv("data/supply_chain_data.csv")
